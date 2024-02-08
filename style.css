@@ -29,10 +29,13 @@ img.hover {
 }
 
 .information{
-    margin-top: 1em;
     font-weight: 900;
     font-size: larger;
     color: #5C8D89;
+}
+
+.information address{
+    margin-top: 1em;
 }
 
 span[contenteditable] {
