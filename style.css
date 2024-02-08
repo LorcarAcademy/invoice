@@ -28,6 +28,13 @@ img.hover {
     box-shadow: 0 0 1em 0.5em #DEF;
 }
 
+.information{
+    margin-top: 1em;
+    font-weight: 900;
+    font-size: larger;
+    color: #5C8D89;
+}
+
 span[contenteditable] {
     display: inline-block;
 }
