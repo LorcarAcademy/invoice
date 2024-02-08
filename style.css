@@ -79,7 +79,7 @@ body {
 
 /* header */
 header {
-    margin: 0 0 3em;
+    /*margin: 0 0 3em; */
     overflow: hidden; /* Añadido para manejar el colapso del margen superior */
 }
 
@@ -94,7 +94,7 @@ header h1 {
 header address {
     float: left;
     font-size: 75%;
-    font-style: normal;
+    font-style: italic;
     line-height: 1.25;
     margin: 0 1em 1em 0;
 }
@@ -130,7 +130,7 @@ article,
 article address,
 table.meta,
 table.inventory {
-    margin: 0 0 3em;
+    /*margin: 0 0 3em;*/
     clear: both;
 }
 
