@@ -38,6 +38,9 @@ img.hover {
     margin-top: 1em;
 }
 
+.pagare{
+    float: left;
+}
 span[contenteditable] {
     display: inline-block;
 }
