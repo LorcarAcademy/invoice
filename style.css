@@ -42,6 +42,10 @@ img.hover {
     float: left;
     font-size: 50%;
 }
+
+.firma{
+    height: 50px;
+}
 span[contenteditable] {
     display: inline-block;
 }
