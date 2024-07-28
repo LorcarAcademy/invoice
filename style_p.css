@@ -32,6 +32,7 @@ img.hover {
     font-weight: 900;
     font-size: larger;
     color: #026B76;
+    display: table-header-group
 }
 
 .information address{
