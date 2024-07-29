@@ -272,8 +272,8 @@ tr:hover .cut {
 }
 
 @page {
-    margin-top: 300px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 /* Agrega un estilo personalizado para la línea debajo de la dirección y el número */
