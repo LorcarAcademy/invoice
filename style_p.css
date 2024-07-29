@@ -265,6 +265,10 @@ tr:hover .cut {
     .cut {
         display: none;
     }
+    body article{
+        position: relative;
+        margin-top: 150px;
+    }
 }
 
 @page {
