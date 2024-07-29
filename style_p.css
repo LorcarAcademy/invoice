@@ -265,6 +265,10 @@ tr:hover .cut {
     .cut {
         display: none;
     }
+    .inventory{
+        position: relative;
+        margin-top: 300px;        
+    }
 }
 
 @page {
