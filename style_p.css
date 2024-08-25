@@ -266,8 +266,7 @@ tr:hover .cut {
         display: none;
     }
     .inventory{
-        position: relative;
-        margin-top: 300px;        
+        position: relative;    
     }
 }
 
