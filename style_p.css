@@ -185,12 +185,12 @@ table.meta td {
 }
 
 /* table items */
-table.inventory th {
+table.inventory th, table.inventory1 th {
     font-weight: bold;
     text-align: center;
 }
 
-table.inventory td {
+table.inventory td, table.inventory1 td {
     text-align: center;
 }
 
@@ -265,8 +265,12 @@ tr:hover .cut {
     .cut {
         display: none;
     }
-    .inventory{
-        position: relative;    
+    .inventory, .inventory1{
+        position: relative;
+        margin-top: 10px;
+    }
+    .inventory1 {
+        width: 40%;
     }
 }
 
