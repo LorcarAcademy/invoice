@@ -99,6 +99,7 @@ header h1 {
     color: #FFF;
     margin: 0;
     padding: 0.5em 0;
+    background: linear-gradient(90deg, rgba(109, 168, 191, 1) 0%, rgba(35, 196, 102, 1) 50%, rgba(194, 180, 56, 1) 100%);
 }
 
 header address {
@@ -289,4 +290,11 @@ tr:hover .cut {
 /* Estilo para el texto más pequeño */
 .small-text {
     font-size: 60%;
+}
+
+.degra{
+    font-size: 24px;
+    background: -webkit-linear-gradient(#6DA8BF, #23C466);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
